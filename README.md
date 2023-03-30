@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/sharonhxchen/
 
 ![stats1](https://github-readme-stats.vercel.app/api?username=sharon-chx&show_icons=true&theme=nightowl)
-![stats2](https://user-images.githubusercontent.com/69126372/228988192-05fe80b2-1bb4-4318-8edd-4765ada11943.svg)
+![stats2](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharon-chx)
