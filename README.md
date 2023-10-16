@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m interested in software engineer and computer/ network Security
 - 📫 How to reach me: https://www.linkedin.com/in/sharonhxchen/
 
+- ![stats2](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharon-chx)
+
 
