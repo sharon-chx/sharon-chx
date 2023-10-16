@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Android App Development, Computer/ Network Security
+- 🌱 I’m interested in software engineer and computer/ network Security
 - 📫 How to reach me: https://www.linkedin.com/in/sharonhxchen/
 
-![stats1](https://github-readme-stats.vercel.app/api?username=sharon-chx&show_icons=true&theme=nightowl)
 ![stats2](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharon-chx)
