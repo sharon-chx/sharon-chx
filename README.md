@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m interested in software engineer and computer/ network Security
+- 🌱 I’m interested in software engineering and computer/ network security
 - 📫 How to reach me: https://www.linkedin.com/in/sharonhxchen/
 
 - ![stats2](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharon-chx)
